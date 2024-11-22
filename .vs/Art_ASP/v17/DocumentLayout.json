@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alber\\source\\repos\\Art_ASP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|c:\\users\\alber\\source\\repos\\art_asp\\art_asp\\controllers\\paintingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|solutionrelative:art_asp\\controllers\\paintingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|c:\\users\\alber\\source\\repos\\art_asp\\art_asp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|solutionrelative:art_asp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|c:\\users\\alber\\source\\repos\\art_asp\\art_asp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|solutionrelative:art_asp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|c:\\users\\alber\\source\\repos\\art_asp\\art_asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|solutionrelative:art_asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|c:\\users\\alber\\source\\repos\\art_asp\\art_asp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|solutionrelative:art_asp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|c:\\users\\alber\\source\\repos\\art_asp\\art_asp\\views\\paintings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|solutionrelative:art_asp\\views\\paintings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|c:\\users\\alber\\source\\repos\\art_asp\\art_asp\\views\\paintings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|solutionrelative:art_asp\\views\\paintings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|c:\\users\\alber\\source\\repos\\art_asp\\art_asp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|solutionrelative:art_asp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|c:\\users\\alber\\source\\repos\\art_asp\\art_asp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|solutionrelative:art_asp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|c:\\users\\alber\\source\\repos\\art_asp\\art_asp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|solutionrelative:art_asp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|c:\\users\\alber\\source\\repos\\art_asp\\art_asp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|solutionrelative:art_asp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|c:\\users\\alber\\source\\repos\\art_asp\\art_asp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|solutionrelative:art_asp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|c:\\users\\alber\\source\\repos\\art_asp\\art_asp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|solutionrelative:art_asp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|c:\\users\\alber\\source\\repos\\art_asp\\art_asp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|solutionrelative:art_asp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|c:\\users\\alber\\source\\repos\\art_asp\\art_asp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|solutionrelative:art_asp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|c:\\users\\alber\\source\\repos\\art_asp\\art_asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDE693CC-1F60-4C1A-B1CF-47449402F8B6}|Art_ASP\\Art_ASP.csproj|solutionrelative:art_asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Art_ASP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Art_ASP\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:56:34.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Art_ASP\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Art_ASP\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:48:29.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Art_ASP\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Art_ASP\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:48:26.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Art_ASP\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Art_ASP\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:48:20.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Art_ASP\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Art_ASP\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:48:24.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Views\\Paintings\\Create.cshtml",
+              "RelativeDocumentMoniker": "Art_ASP\\Views\\Paintings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Views\\Paintings\\Create.cshtml",
+              "RelativeToolTip": "Art_ASP\\Views\\Paintings\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:48:32.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Views\\Paintings\\Index.cshtml",
+              "RelativeDocumentMoniker": "Art_ASP\\Views\\Paintings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Views\\Paintings\\Index.cshtml",
+              "RelativeToolTip": "Art_ASP\\Views\\Paintings\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:48:39.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Program.cs",
+              "RelativeDocumentMoniker": "Art_ASP\\Program.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Program.cs",
+              "RelativeToolTip": "Art_ASP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:47:13.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Art_ASP\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Art_ASP\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:47:40.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Art_ASP\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Art_ASP\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:47:30.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaintingsController.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Controllers\\PaintingsController.cs",
+              "RelativeDocumentMoniker": "Art_ASP\\Controllers\\PaintingsController.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Controllers\\PaintingsController.cs",
+              "RelativeToolTip": "Art_ASP\\Controllers\\PaintingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:47:47.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Art_ASP\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Art_ASP\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:48:08.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Art_ASP\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Art_ASP\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:48:17.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Art_ASP\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Art_ASP\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:48:48.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Art_ASP\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Art_ASP\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:48:47.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\appsettings.json",
+              "RelativeDocumentMoniker": "Art_ASP\\appsettings.json",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Art_ASP\\Art_ASP\\appsettings.json",
+              "RelativeToolTip": "Art_ASP\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T14:47:01.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
